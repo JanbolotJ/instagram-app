@@ -78,7 +78,7 @@ export default function Gptreg() {
 
                 <div className={cls.register_page_bottomCard}>
                     <p>
-                        You have an account!
+                        You have an account!!!!!
                         <button className={cls.register_page_bottomCard_Link} onClick={() => navigate('/accounts/authentification')}>
                             Login
                         </button>
